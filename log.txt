@@ -1,0 +1,5 @@
+-arreglar estilos footer
+-poner formulario newsletter footer
+-poner contenido a somos
+-poner contenido a contacto
+-arreglar display de fotos en tags
